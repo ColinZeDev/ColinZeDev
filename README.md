@@ -1,6 +1,6 @@
 # About me
 - Gay/Asexual/Demiromantic
-- he/him
+- he/they/theirs
 
 ### My Favorite Coding Language:
 ![py](https://i.imgur.com/nL09CPD.png)
