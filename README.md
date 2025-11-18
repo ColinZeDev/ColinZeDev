@@ -1,9 +1,8 @@
 # About me
 - Gay/Asexual/Demiromantic
-- he/they/theirs
+- he/they/theirs (Demiromantic
 
-### My Favorite Coding Language:
-![py](https://i.imgur.com/nL09CPD.png)
-
-### My Favorite Drink:
-![rb](https://i.imgur.com/CP8LAyi.png)
+To view more about me go to:
+- https://cybercolin.org/pages/aboutme/
+- https://cybercolin.org/pages/aboutme/p/interests
+- https://cybercolin.org/pages/aboutme/p/mylinks
