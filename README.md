@@ -1,6 +1,7 @@
 # Linux Distros I've Touched, Tried, Broken, or Daily-Drove
 
 ## Legend
+- 🔵 = currently use / daily-drive
 - ✅ = fully installed / actually used
 - ⚙️ = installed briefly / tinkered
 - 💥 = broke it or it broke me
@@ -10,7 +11,7 @@
 ---
 
 ## 🌿 Debian Family
-- ✅ Debian
+- 🔵 Debian
 - ✅ Ubuntu
 - ✅ Linux Mint
 - 🧪 Pop!_OS
