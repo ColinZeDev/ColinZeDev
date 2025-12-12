@@ -11,7 +11,7 @@
 ---
 
 ## 🌿 Debian Family
-- 🔵 Debian
+- ✅ Debian
 - ✅ Ubuntu
 - ✅ Linux Mint
 - 🧪 Pop!_OS
@@ -50,7 +50,7 @@
 
 ## 📦 Independent Distros
 - ⬜ Void Linux
-- 💥 NixOS
+- 🔵 NixOS
 - ⬜ Solus
 - ⬜ Clear Linux
 - ⬜ Slackware
