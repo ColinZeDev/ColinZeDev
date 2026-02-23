@@ -29,13 +29,13 @@
 - ⬜ EndeavourOS
 - 🧪 Manjaro
 - ⬜ Garuda Linux
-- ⬜ Artix Linux
+- 💥 Artix Linux
 - ⬜ Hyperbola
 - 🧪 CachyOS
 
 ## 🌀 Gentoo / Source-based
 - 💥 Gentoo
-- 🧪 Funtoo
+- ⬜ Funtoo
 - ⬜ Calculate Linux
 
 ## 🎩 Red Hat Family
@@ -45,15 +45,15 @@
 - ⬜ RHEL
 
 ## 🦎 openSUSE
-- ⬜ openSUSE Tumbleweed
+- ✅ openSUSE Tumbleweed
 - ⬜ openSUSE Leap
 
 ## 📦 Independent Distros
-- ⬜ Void Linux
-- 🔵 NixOS
+- 🔵 Void Linux
+- ✅ NixOS
 - ⬜ Solus
 - ⬜ Clear Linux
-- ⬜ Slackware
+- ⚙️ Slackware
 - ⬜ Tiny Core Linux
 - ⬜ Puppy Linux
 - ⬜ GoboLinux
@@ -61,7 +61,7 @@
 ## 💻 Specialty / Niche
 - ⬜ Qubes OS
 - ⬜ Alpine Linux
-- ⬜ Bedrock Linux
+- ⚙️ Bedrock Linux
 - ⬜ Tails
 - ⬜ Whonix
 
