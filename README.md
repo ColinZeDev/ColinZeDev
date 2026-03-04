@@ -25,7 +25,7 @@
 - ⬜ Peppermint OS
 
 ## 🏔 Arch Family
-- ✅ Arch Linux
+- 🔵 Arch Linux
 - ⬜ EndeavourOS
 - 🧪 Manjaro
 - ⬜ Garuda Linux
@@ -49,7 +49,7 @@
 - ⬜ openSUSE Leap
 
 ## 📦 Independent Distros
-- 🔵 Void Linux
+- ✅ Void Linux
 - ✅ NixOS
 - ⬜ Solus
 - ⬜ Clear Linux
@@ -57,6 +57,7 @@
 - ⬜ Tiny Core Linux
 - ⬜ Puppy Linux
 - ⬜ GoboLinux
+- ⬜ GNU Guix
 
 ## 💻 Specialty / Niche
 - ⬜ Qubes OS
