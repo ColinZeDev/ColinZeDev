@@ -43,6 +43,7 @@
 - ⬜ Rocky Linux
 - ⬜ AlmaLinux
 - ⬜ RHEL
+- ⬜ CentOS
 
 ## 🦎 openSUSE
 - ✅ openSUSE Tumbleweed
