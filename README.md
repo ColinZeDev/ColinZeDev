@@ -45,7 +45,8 @@
 - ⬜ RHEL
 - ⬜ CentOS
 
-## 🦎 openSUSE
+## 🦎 SUSE
+- ⬜ SUSE
 - ✅ openSUSE Tumbleweed
 - ⬜ openSUSE Leap
 
