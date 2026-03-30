@@ -44,6 +44,7 @@
 - ⬜ AlmaLinux
 - ⬜ RHEL
 - ⬜ CentOS
+- ⬜ Bazzite
 
 ## 🦎 SUSE
 - ⬜ SUSE
