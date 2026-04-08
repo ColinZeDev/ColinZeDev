@@ -70,4 +70,4 @@
 - ⬜ Whonix
 
 ## ❓ Other
- - ⬜ LFS (Linux From Scratch)
+ - 💥 LFS (Linux From Scratch)
