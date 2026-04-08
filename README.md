@@ -64,7 +64,7 @@
 
 ## 💻 Specialty / Niche
 - ⬜ Qubes OS
-- ⬜ Alpine Linux
+- 🧪 Alpine Linux
 - ⚙️ Bedrock Linux
 - ⬜ Tails
 - ⬜ Whonix
