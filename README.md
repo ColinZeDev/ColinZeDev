@@ -25,11 +25,11 @@
 - ⬜ Peppermint OS
 
 ## 🏔 Arch Family
-- 🔵 Arch Linux
+- ✅ Arch Linux
 - ⬜ EndeavourOS
 - 🧪 Manjaro
 - ⬜ Garuda Linux
-- 💥 Artix Linux
+- 🔵 Artix Linux
 - ⬜ Hyperbola
 - 🧪 CachyOS
 
