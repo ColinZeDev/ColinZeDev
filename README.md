@@ -12,6 +12,7 @@
 
 ### Specs:
 Main PC:
+- Type: Laptop
 - CPU: Intel Core Ultra 7 255H (16 cores, 16 threads)
 - GPU: Nvidia RTX 5070 Laptop GPU
 - RAM: 32GB DDR5-5600 SODIMM (the speed might be 6000 i need to confirm some time)
@@ -23,10 +24,11 @@ Main PC:
     - DE: KDE Plasma
 
 Secondary PC:
+- Type: Laptop
 - CPU: Intel Core i7-10610U (4 cores, 8 threads)
 - GPU: Integrated
 - RAM: 16 GB LPDDR3-2133
 - Storage: 256 GB M.2 NVMe
-- Screen: 1920x1080 @ 60hz
+- Screen: 1920x1080 IPS @ 60hz
 - OS: Artix Linux OpenRC
     - WM: Hyprland w/ Noctalia Shell
